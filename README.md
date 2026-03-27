@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogghate&label=Profile%20views&color=0e75b6&style=flat" alt="suyogghate" /> </p>
 
-- 🌱 I’m currently learning **Html, Css, Javascript, React.js, Node.js**
+- 🌱 I’m currently learning **Excel, PowerBI, MySQL, Python, Data Enginnering basics, AWS, PySpark, Pandas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyogghate?tab=repositories](https://github.com/suyogghate?tab=repositories)
 
-- 💬 Ask me about **MERN Stack, Frontend technologies, UI/UX.**
+- 💬 Ask me about **Coding, Data Pipeline, Data Analysis, Data Enginnering, AI/ML**
 
 - 📫 How to reach me **suyogghate96@gmail.com**
 
-- ⚡ Fun fact **Actually I am a mechanical engineer, looking for a job in software industry.**
+- ⚡ Fun fact **Actually I am a mechanical engineer, looking for a job in Data Field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
