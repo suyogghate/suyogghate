@@ -14,7 +14,7 @@
 - 📫 How to reach me **suyogghate96@gmail.com**
 
 - ⚡ Fun fact **Actually I am a mechanical engineer, looking for a job in Data Field.**
-[[![roadmap.sh](https://roadmap.sh/card/wide/6a2a3aa19e61e7fe131729ee?variant=dark&roadmaps=data-engineer)](https://roadmap.sh)](https://roadmap.sh/u/6a2a3aa19e61e7fe131729ee?roadmapId=python)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suyog-ghate-a2a58b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyog-ghate-a2a58b199/" height="30" width="40" /></a>
